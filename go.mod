@@ -1,4 +1,4 @@
-module gihub.com/ycabrer/evapi-golang
+module github.com/ycabrer/evapi-golang
 
 go 1.14
 
